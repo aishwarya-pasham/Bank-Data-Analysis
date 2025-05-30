@@ -31,3 +31,15 @@ This Power BI dashboard gives an extensive overview of bank customer data, provi
 ## Dashboard
 ![Bank Data Analysis Dashboard](https://github.com/user-attachments/assets/70abeb62-234d-46f1-bad1-2ac4447e8ce8)
 
+## Project Insight
+- Customers between the ages of 30 and 45 have the highest account balance, reflecting a peak in financial activity within prime working ages.
+- More male (54.28%) than female customers (45.72%) hold a share of the total balance.
+- The region with the highest number of customers is England (53.79%), which also has the most contribution to total balance (53.15%).
+- Wales contributes 28% and Scotland contributes 12.95%, while Northern Ireland has the least presence.
+- White-collar employees predominate in the customer universe with 48.7%, indicating increased banking activity from this demographic.
+- Blue-collar (26.13%) and Other types of employment (25.16%) follow closely behind.
+- The bank has experienced a consistent increase in customer join rate over the year.
+- A number of spikes in the registrations indicate winning campaigns or promotional activities.
+
+  ## Project Conclusion
+  This analysis demonstrates distinct clear in customer behavior, regional activity, and account management. The trends revealed in this dashboard offer actionable data that can enable  data-driven decision-making in customer targeting, regional strategy, and personalizing services. By using these insights, the bank can maximize customer satisfaction, maximize marketing effectiveness, and enhance its competitive strength in target demographics. This project effectively showcases the capability of visual data analysis in informing strategic banking decisions.
